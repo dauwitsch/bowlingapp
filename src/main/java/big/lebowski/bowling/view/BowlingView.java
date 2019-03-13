@@ -6,7 +6,7 @@ import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import big.lebowski.bowling.BowlingFrame;
+import big.lebowski.bowling.data.BowlingFrame;
 import big.lebowski.bowling.util.CommandLineTable;
 
 public class BowlingView {

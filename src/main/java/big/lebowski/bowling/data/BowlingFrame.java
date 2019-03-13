@@ -1,4 +1,4 @@
-package big.lebowski.bowling;
+package big.lebowski.bowling.data;
 
 public class BowlingFrame {
 

@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import big.lebowski.bowling.data.BowlingFrame;
 import big.lebowski.bowling.service.BowlingService;
 import big.lebowski.bowling.view.BowlingView;
 
